@@ -6,3 +6,7 @@ Disallow:
 
 User-agent: Googlebot-Image
 Disallow:
+
+
+
+Sitemap: https://sua-venus-em-acao.desconto-no-curso.com.br/sitemap.xml
